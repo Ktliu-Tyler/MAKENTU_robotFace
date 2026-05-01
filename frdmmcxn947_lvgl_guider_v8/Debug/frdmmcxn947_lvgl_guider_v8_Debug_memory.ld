@@ -6,7 +6,7 @@
  * Generated linker script file for MCXN947
  * Created from memory.ldt by FMCreateLinkMemory
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v24.12 [Build 148] [2025-01-10] on 2026年4月29日 下午5:29:36
+ * MCUXpresso IDE v24.12 [Build 148] [2025-01-10] on 2026年5月1日 下午7:37:27
  */
 
 MEMORY

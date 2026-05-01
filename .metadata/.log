@@ -1906,3 +1906,21 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.crt.log 1 0 2026-05-01 19:37:19.004
+!MESSAGE Trying to connect to redlink server on port 3025.
+
+!ENTRY com.nxp.mcuxpresso.core.debug.support.linkserver 1 0 2026-05-01 19:37:20.021
+!MESSAGE RedlinkServer telnet session connected on port 3025->14160 @ 127.0.0.1
+
+!ENTRY [ERROR] [com.nxp.mcuxpresso.core.debug.support.linkserver] 0 0 2026-05-01 19:37:20.294
+!MESSAGE 0x763EF690, CLI error: #0x763EF690 (report to NXP)
+
+!ENTRY com.nxp.mcuxpresso.core.debug 4 0 2026-05-01 19:37:23.901
+!MESSAGE There is already a running debug session for the launch configuration 'frdmmcxn947_lvgl_guider_v8 LinkServer Debug'.
+
+!ENTRY com.crt.log 1 0 2026-05-01 19:37:32.369
+!MESSAGE Starting GDB server [ D:/applications/LinkServer_24.12.21/binaries/crt_emu_cm_redlink, --server, :10989, -msg-port=14169, -g, -mi, -2, -pMCXN947, -vendor=NXP, --bootromstall, 0x50000040, --reset=, -ProbeHandle=1, -CoreIndex=0, -cache=disable, --flash-hashing, --flash-driver=, -x, D:/MakeNTU/frdmmcxn947_lvgl_guider_v8/Debug, --flash-dir, D:/applications/LinkServer_24.12.21/binaries/Flash, --flash-dir, D:/MakeNTU/.mcuxpressoide_packages_support/MCXN947_support/Flash, --telnet, 3330, --romstalldelay, 600 ]
+
+!ENTRY com.nxp.mcuxpresso.core.debug 1 0 2026-05-01 19:37:35.095
+!MESSAGE Telnet session connected on port 3330->14183 @ 127.0.0.1

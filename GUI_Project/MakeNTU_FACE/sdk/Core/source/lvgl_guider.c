@@ -186,10 +186,29 @@ void InitUartConnect()
     EnableIRQ(DEMO_LPUART_IRQn);
 }
 
+void SLEEPGui(char* pValue)
+{
+    ui_load_scr_animation(&guider_ui, &guider_ui.Sleep, guider_ui.Sleep_del, &guider_ui.Sleep_del, setup_scr_Sleep, LV_SCR_LOAD_ANIM_NONE, 200, 200, false, true);
+    PRINTF("switch to SLEEP");
+}
+
+void NORMALGui(char* pValue)
+{
+	ui_load_scr_animation(&guider_ui, &guider_ui.Normal, guider_ui.Normal_del, &guider_ui.Normal_del, setup_scr_Normal, LV_SCR_LOAD_ANIM_NONE, 200, 200, false, true);
+	PRINTF("switch to NORMAL");
+}
+
+void ShowNumber(char* pValue)
+{
+	unsigned int value=0;
+	sscanf(pValue,"%d",&value);
+	PRINTF("Number = %d\r\n" , value);
+}
+
 SMONITORCOMMAND sMonitorFuncList[]=
 {
-	{  "Button",    "<var 1> <var 2>",     "Print the input numbers",      ButtonGui },
-	{  "Return",    "<var 1> <var 2>",     "Print the input numbers",      ReturnGui },
+	{  "Sleep",    "<var 1> <var 2>",     "switch to SLEEP",      SLEEPGui },
+	{  "Normal",    "<var 1> <var 2>",     "switch to NORMAL",      NORMALGui },
 	{  "ShowNum",    "<var 1> <var 2>",     "Print the input numbers",     ShowNumber },
 	{0,0,0,0}
 };
