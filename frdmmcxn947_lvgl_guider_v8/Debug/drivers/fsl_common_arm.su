@@ -1,0 +1,4 @@
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/drivers/fsl_common_arm.c:121:6:MSDK_EnableCpuCycleCounter	8	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/drivers/fsl_common_arm.c:139:10:MSDK_GetCpuCycleCount	4	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/drivers/fsl_common_arm.c:175:13:DelayLoop	16	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/drivers/fsl_common_arm.c:205:6:SDK_DelayAtLeastUs	40	static

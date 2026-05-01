@@ -1,0 +1,5 @@
+D:\MakeNTU\GUI_Project\MakeNTU_FACE\sdk\Core\drivers/fsl_clock.h:1394:20:CLOCK_EnableClock	24	static
+D:\MakeNTU\GUI_Project\MakeNTU_FACE\sdk\Core\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/board/pin_mux.c:42:6:BOARD_InitBootPins	8	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/board/pin_mux.c:69:6:BOARD_InitPins	16	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/board/pin_mux.c:187:6:BOARD_InitLcdPins	128	static

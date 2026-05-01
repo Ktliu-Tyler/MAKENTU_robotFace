@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MakeNTU/GUI_Project/Button_demo/sdk/Core/utilities/fsl_memcpy.S
+
+D:/MakeNTU/GUI_Project/Button_demo/sdk/armgcc/startup/startup_MCXN947_cm33_core0.S
+

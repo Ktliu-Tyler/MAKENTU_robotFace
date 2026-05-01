@@ -1,0 +1,11 @@
+12:59:29 **** Incremental Build of configuration Debug for project dm-wifi-cli-frdm-mcxn947 ****
+make -r -j16 all 
+make[1]: Nothing to be done for 'main-build'.
+Performing post-build steps
+arm-none-eabi-size "dm-wifi-cli-frdm-mcxn947.axf"; # arm-none-eabi-objcopy -v -O binary "dm-wifi-cli-frdm-mcxn947.axf" "dm-wifi-cli-frdm-mcxn947.bin" ; # checksum -p MCXN947 -d "dm-wifi-cli-frdm-mcxn947.bin";
+   text	   data	    bss	    dec	    hex	filename
+  21456	     20	 164608	 186084	  2d6e4	dm-wifi-cli-frdm-mcxn947.axf
+ 
+
+12:59:31 Build Finished. 0 errors, 0 warnings. (took 1s.781ms)
+

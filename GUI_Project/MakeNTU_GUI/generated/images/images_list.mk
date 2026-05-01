@@ -1,0 +1,1 @@
+GEN_CSRCS += _domore_alpha_480x320.c

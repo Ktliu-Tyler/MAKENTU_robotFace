@@ -1,0 +1,3 @@
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/device/system_MCXN947_cm33_core0.c:66:29:SystemInit	8	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/device/system_MCXN947_cm33_core0.c:118:6:SystemCoreClockUpdate	4	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/Core/device/system_MCXN947_cm33_core0.c:128:29:SystemInitHook	4	static

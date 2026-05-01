@@ -1,0 +1,5 @@
+D:/MakeNTU/GUI_Project/Button_demo/generated/events_init.c:19:13:screen1_btn_1_event_handler	48	static
+D:/MakeNTU/GUI_Project/Button_demo/generated/events_init.c:33:6:events_init_screen1	16	static
+D:/MakeNTU/GUI_Project/Button_demo/generated/events_init.c:38:13:screen_2_btn_1_event_handler	48	static
+D:/MakeNTU/GUI_Project/Button_demo/generated/events_init.c:52:6:events_init_screen_2	16	static
+D:/MakeNTU/GUI_Project/Button_demo/generated/events_init.c:58:6:events_init	16	static

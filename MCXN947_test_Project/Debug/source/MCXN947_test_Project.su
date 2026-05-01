@@ -1,0 +1,9 @@
+D:\MakeNTU\MCXN947_test_Project\drivers/fsl_clock.h:1489:20:CLOCK_EnableClock	24	static
+D:\MakeNTU\MCXN947_test_Project\drivers/fsl_gpio.h:345:20:GPIO_PinWrite	24	static
+D:\MakeNTU\MCXN947_test_Project\drivers/fsl_port.h:463:20:PORT_SetPinMux	24	static
+../source/MCXN947_test_Project.c:32:13:servo_delay_us	16	static
+../source/MCXN947_test_Project.c:37:13:servo_delay_ms	16	static
+../source/MCXN947_test_Project.c:42:13:servo_gpio_init	16	static
+../source/MCXN947_test_Project.c:55:17:servo_angle_to_pulse_us	16	static
+../source/MCXN947_test_Project.c:65:13:servo_hold_angle_ms	32	static
+../source/MCXN947_test_Project.c:83:5:main	8	static

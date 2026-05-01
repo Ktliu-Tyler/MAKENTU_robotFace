@@ -1,0 +1,6 @@
+D:/MakeNTU/GUI_Project/Button_demo/sdk/Core/source/lvgl_freertos.c:46:13:traceIdleTaskSwitchedIn	8	static
+D:/MakeNTU/GUI_Project/Button_demo/sdk/Core/source/lvgl_freertos.c:51:13:traceIdleTaskSwitchedOut	72	static
+D:/MakeNTU/GUI_Project/Button_demo/sdk/Core/source/lvgl_freertos.c:71:10:getIdleTaskTime	56	static
+D:/MakeNTU/GUI_Project/Button_demo/sdk/Core/source/lvgl_freertos.c:81:6:resetIdleTaskTime	4	static
+D:/MakeNTU/GUI_Project/Button_demo/sdk/Core/source/lvgl_freertos.c:88:6:traceTaskSwitchedOut	16	static
+D:/MakeNTU/GUI_Project/Button_demo/sdk/Core/source/lvgl_freertos.c:98:6:traceTaskSwitchedIn	16	static

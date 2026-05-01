@@ -1,0 +1,3 @@
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/armgcc/build/CMakeFiles/lvgl_guider.elf.dir
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/armgcc/build/CMakeFiles/edit_cache.dir
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/sdk/armgcc/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:19:13:Start_event_handler	48	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:33:6:events_init_Start	16	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:38:13:Normal_event_handler	72	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:70:13:Normal_eyeR_event_handler	72	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:85:13:Normal_eyeL_event_handler	72	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:100:13:Normal_relieve_event_handler	72	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:117:6:events_init_Normal	16	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:125:13:Sleep_event_handler	48	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:149:6:events_init_Sleep	16	static
+D:/MakeNTU/GUI_Project/MakeNTU_FACE/generated/events_init.c:155:6:events_init	16	static
